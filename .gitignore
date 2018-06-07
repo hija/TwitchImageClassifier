@@ -1,0 +1,6 @@
+
+# Don't upload data
+data/*
+
+# But keep upload the directory
+!data/.gitkeep
