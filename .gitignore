@@ -1,3 +1,7 @@
+# General
+
+.ipynb_checkpoints/*
+__pycache__/*
 
 # Don't upload data
 data/*
